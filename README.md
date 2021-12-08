@@ -1,1 +1,2 @@
-# 8086 dissasembler
+# Disasembler (8086)
+Disassembler for 8086 chip. 
